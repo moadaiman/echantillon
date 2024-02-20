@@ -151,26 +151,24 @@ nav a {
     
 }
 .km {
-    
     background : rgb(255, 255, 255);
     display: flex;
     align-items: center;
-    padding: 20px 15% 0%;
-    border: 1px solid black;
-    border-radius: 20px;
+    padding: 5% 15% 0%; /* Adjusted padding */
+}
 
-    
-}
 .km p {
-    font-size: 20px;
+    font-size: 2vw; /* Adjusted font size */
     color: #000000;
 }
+
 .km h3 {
-    font-size: 50px;
+    font-size: 5vw; /* Adjusted font size */
     color: #000000;
-    margin: 50px auto 0px 30px ;
-    padding:0% 8% 8%;
+    margin: 5% auto 0 3%; /* Adjusted margin */
+    padding: 0 4% 4%; /* Adjusted padding */
 }
+
 .home1, .home2, .home3 {
     background: rgb(255, 255, 255);
     display: flex;
